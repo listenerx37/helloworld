@@ -1,3 +1,5 @@
+# Trey Hunner <trey@truthful.technology>
+
 from functools import reduce
 
 
