@@ -1,3 +1,5 @@
+# Trey Hunner <trey@truthful.technology>
+
 import unittest
 
 from numeric_range import numeric_range
